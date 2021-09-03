@@ -128,4 +128,4 @@ Can I add new sections to my Moodle site?
 How do I check if the editor is Atto?
 > Profile > Preferences > Editor Preferences > Text Editor > Atto HTML Editor
 
-For general use documentation, [here](https://docs.google.com/document/d/1xCYBLaIQ1SoJvOyR2d0SbF7NnJp11v2-JprKenIHDi4/edit).
+For general use documentation, [here](https://docs.google.com/document/d/1VtkP74Fu48QZt70e-KLDpkxlACO_wjVZYM4x6zfVbo4/edit?usp=sharing).
